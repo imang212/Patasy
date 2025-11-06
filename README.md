@@ -4,7 +4,7 @@
 Hráč prochází rozsáhlý svět plný přírody, nepřátel a výzev.  
 Cílem hry je sbírat body za zabíjení nepřátel, zlepšovat své statistiky a postupně přežít co nejdéle.
 
-### Autor
+## Autor
 **Autor:** Patrik Poklop  
 **Vedoucí práce:** Mgr. Michal Beneš  
 **Škola:** Střední průmyslová škola, Resslova 5, Ústí nad Labem  
@@ -58,29 +58,26 @@ U obchodníka lze:
 Tento projekt vznikl jako školní ročníková práce.  Autor se během vývoje naučil pracovat s Unity Enginem, programovat v C# a tvořit herní grafiku. Cílem bylo vytvořit plnohodnotnou 2D RPG hru a přiblížit se profesionálním hrám svého žánru.
 
 ## Obrázky
-**Ukázka ze hry**\
+### **Ukázka ze hry**
 <img width="702" height="396" alt="jcWseAAAABklEQVQDABSK4v6z9nuFAAAAAElFTkSuQmCC" src="https://github.com/user-attachments/assets/50a9efaf-f081-41e7-97f1-2fc2851f87b5" />
 
-**Ukládání hry**\
+### **Ukládání hry**
 <img width="759" height="429" alt="FYvGYwAAAAZJREFUAwBI+M5ZFNsqRAAAAABJRU5ErkJggg==" src="https://github.com/user-attachments/assets/d5c9e9b5-040e-4f2b-8f9e-7450d43b436b" />
 
-**Game over**\
+### **Game over**
 <img width="735" height="411" alt="LBPEjAAAABklEQVQDACAiXAA7l0SGAAAAAElFTkSuQmCC" src="https://github.com/user-attachments/assets/bbb9fb06-0450-470f-bddc-e698dc1091c8" />
 
-**Souboj s bosem**\
+### **Souboj s bosem**
 <img width="687" height="385" alt="8OZQujAAAABklEQVQDAFg9ehErCItuAAAAAElFTkSuQmCC" src="https://github.com/user-attachments/assets/3639ecc6-0778-4643-8f8a-e21f5c7c9152" />
 
 ## Použitá literatura
-_1.cs.wikipedia.org: Pixlr (Editor Fotografií)_ [online]. 2008 [cit. 2022- 07 - 03 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/Pixlr
-
-_2.cs.wikipedia.org: Unity (Herní engine)_ [online]. 200 5 [cit. 2022- 07 - 03 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/Unity_(herní_engine)
-
-_3.cs.wikipedia.org: C# (Programovací jazyk)_ [online]. 200 0 [cit. 2022- 07 - 03 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/C_Sharp
-
-_4.cs.wikipedia.org: Visual Studio Code (Editor zdrojového kódu)_ [online]. 2015 - 4 - 28 [cit. 2022-
+1.cs.wikipedia.org: Pixlr (Editor Fotografií)_ [online]. 2008 [cit. 2022- 07 - 03 ]. Dostupné z:
+https://cs.wikipedia.org/wiki/Pixlr\
+2.cs.wikipedia.org: Unity (Herní engine)_ [online]. 200 5 [cit. 2022- 07 - 03 ]. Dostupné z:
+https://cs.wikipedia.org/wiki/Unity_(herní_engine)\
+3.cs.wikipedia.org: C# (Programovací jazyk)_ [online]. 200 0 [cit. 2022- 07 - 03 ]. Dostupné z:
+https://cs.wikipedia.org/wiki/C_Sharp\
+4.cs.wikipedia.org: Visual Studio Code (Editor zdrojového kódu)_ [online]. 2015 - 4 - 28 [cit. 2022-
 07 - 03 ]. Dostupné z:
 https://cs.wikipedia.org/wiki/Visual_Studio_Code
 
