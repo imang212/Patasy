@@ -72,11 +72,14 @@ Tento projekt vznikl jako školní ročníková práce.  Autor se během vývoje
 
 ## Použitá literatura
 1.cs.wikipedia.org: Pixlr (Editor Fotografií)_ [online]. 2008 [cit. 2022- 07 - 03 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/Pixlr\
+https://cs.wikipedia.org/wiki/Pixlr
+
 2.cs.wikipedia.org: Unity (Herní engine)_ [online]. 200 5 [cit. 2022- 07 - 03 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/Unity_(herní_engine)\
+https://cs.wikipedia.org/wiki/Unity_(herní_engine)
+
 3.cs.wikipedia.org: C# (Programovací jazyk)_ [online]. 200 0 [cit. 2022- 07 - 03 ]. Dostupné z:
-https://cs.wikipedia.org/wiki/C_Sharp\
+https://cs.wikipedia.org/wiki/C_Sharp
+
 4.cs.wikipedia.org: Visual Studio Code (Editor zdrojového kódu)_ [online]. 2015 - 4 - 28 [cit. 2022-
 07 - 03 ]. Dostupné z:
 https://cs.wikipedia.org/wiki/Visual_Studio_Code
