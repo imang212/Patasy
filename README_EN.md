@@ -1,9 +1,5 @@
 # Páťasy – 2D RPG Game
-**Páťasy** is a single-player 2D RPG game created from the author’s imagination.  
-The player explores a vast world full of nature, enemies, and challenges.  
-The main goal is to earn points by defeating enemies, improve stats, and survive as long as possible.
-
----
+**Páťasy** is a single-player 2D RPG game created from the author’s imagination. The player explores a vast world full of nature, enemies, and challenges. The main goal is to earn points by defeating enemies, improve stats, and survive as long as possible.
 
 ## Author
 **Author:** Patrik Poklop  
@@ -11,16 +7,12 @@ The main goal is to earn points by defeating enemies, improve stats, and survive
 **School:** Secondary Industrial School, Resslova 5, Ústí nad Labem  
 **Year:** 2021/2022  
 
----
-
 ## Gameplay
 - The player moves across a map consisting of **forests, lakes, mountains, roads, castles, and caves**.  
 - Enemies of varying strength are randomly placed across the map.  
 - Each enemy has unique **HP and attack abilities**.  
 - The player can **attack, earn score points**, and **upgrade stats** at the merchant.  
 - The game includes **sound effects, music, animations, and combat effects**.
-
----
 
 ## Main Features
 - Game menu with settings and the ability to name your character  
@@ -32,8 +24,6 @@ The main goal is to earn points by defeating enemies, improve stats, and survive
 - Minimap showing player and enemy positions  
 - Music, sound effects, and combat visuals  
 
----
-
 ## Technologies Used
 | Technology | Description |
 |-------------|-------------|
@@ -42,8 +32,6 @@ The main goal is to earn points by defeating enemies, improve stats, and survive
 | **Pixlr Editor** | Cloud-based image editor used for creating and editing graphics and animations. |
 | **Visual Studio Code** | Code editor for writing and managing C# scripts. |
 
----
-
 ## Controls
 | Key / Action | Function |
 |---------------|-----------|
@@ -51,14 +39,10 @@ The main goal is to earn points by defeating enemies, improve stats, and survive
 | `Spacebar` or Mouse Click | Attack |
 | `ESC` | Open game menu |
 
----
-
 ## Save & Load System
 - The player can **save** the current game state at any time (including enemy positions and stats).  
 - Saved games appear in a list with options to **load or delete**.  
 - Each save is confirmed with an informational message.  
-
----
 
 ## Merchant
 At the merchant, players can:
@@ -66,14 +50,8 @@ At the merchant, players can:
 - Upgrade **skills** (character stats)  
 - Spend earned points for rewards  
 
----
-
 ## Conclusion
-This project was created as a final school project.  
-During development, the author learned how to work with Unity Engine, program in C#, and create game graphics.  
-The goal was to build a fully functional 2D RPG game and get closer to professional game design standards.
-
----
+This project was created as a final school project. During development, the author learned how to work with Unity Engine, program in C#, and create game graphics. The goal was to build a fully functional 2D RPG game and get closer to professional game design standards.
 
 ## Screenshots
 ### **Gameplay Example**
@@ -87,8 +65,6 @@ The goal was to build a fully functional 2D RPG game and get closer to professio
 
 ### **Boss Battle**
 <img width="687" height="385" alt="Boss Fight" src="https://github.com/user-attachments/assets/3639ecc6-0778-4643-8f8a-e21f5c7c9152" />
-
----
 
 ## References
 1. [Pixlr (Photo Editor)](https://cs.wikipedia.org/wiki/Pixlr)  
