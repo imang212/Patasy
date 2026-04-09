@@ -18,10 +18,10 @@ This repository is organized into the following directories:
 You can find the latest playable builds in the [Releases](https://github.com/imang212/Patasy/releases) section:
 
 - **v1.0.6 (Current beta)**
-  - [`Patasy_Windows_v1.0.6_x64.zip`](https://github.com/imang212/Patasy/releases/download/v0.1.6/Patasy_Windows_v1.0.6_x64.zip) - Optimized for 64-bit Windows.
-  - [`Patasy_Linux_v1.0.6_x86_64.zip`](https://github.com/imang212/Patasy/releases/download/v0.1.6/Patasy_Linux_v1.0.6_x86_64.zip) - Standard Linux build.
+  - [Download for Windows (x64)](https://github.com/imang212/Patasy/releases/download/v0.1.6/Patasy_Windows_v1.0.6_x64.zip) - Optimized for 64-bit Windows.
+  - [Download for Linux (x86_64)](https://github.com/imang212/Patasy/releases/download/v0.1.6/Patasy_Linux_v1.0.6_x86_64.zip) - Standard Linux build.
 - **v0.1.0 (Initial Prototype)**
-  - [`Páťasy_Windows_v0_1_x64.zip`](https://github.com/imang212/Patasy/releases/download/v0.1.0/Páťasy_Windows_v0_1_x64.zip) - Initial prototype version.
+  - [Download for Windows (x64)](https://github.com/imang212/Patasy/releases/download/v0.1.0/Patasy_Windows_v0_1_x64.zip) - Initial prototype version.
 
 ## Key Features
 - **Dynamic World:** Explore forests, lakes, mountains, roads, castles, and caves.
