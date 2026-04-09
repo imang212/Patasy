@@ -1,79 +1,61 @@
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Unity-2022.3+-black?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-Scripting-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078D4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat" />
 </p>
 
-# Páťasy – 2D RPG Game
-**Páťasy** is a single-player 2D RPG game created from the author’s imagination. The player explores a vast world full of nature, enemies, and challenges. The main goal is to earn points by defeating enemies, improve stats, and survive as long as possible.
+# Patasy – 2D Action RPG
+**Páťasy** is an immersive single-player 2D Action RPG. Explore a vast world filled with diverse landscapes, challenging enemies, and hidden secrets. Defeat foes to earn points, upgrade your skills at the merchant, and survive the ultimate boss battles.
 
-## Author
-**Author:** Patrik Poklop  
-**Supervisor:** Mgr. Michal Beneš  
-**School:** Secondary Industrial School, Resslova 5, Ústí nad Labem  
-**Year:** 2021/2022  
+## Project Structure
+This repository is organized into the following directories:
+- **`Patasy_Source/`**: Full Unity project source files (Assets, ProjectSettings, etc.).
+- **`docs/`**: Comprehensive project documentation and technical details.
+- **`Patasy_Builds/`**: Local directory containing compiled binaries for different platforms.
 
-## Gameplay
-- The player moves across a map consisting of **forests, lakes, mountains, roads, castles, and caves**.  
-- Enemies of varying strength are randomly placed across the map.  
-- Each enemy has unique **HP and attack abilities**.  
-- The player can **attack, earn score points**, and **upgrade stats** at the merchant.  
-- The game includes **sound effects, music, animations, and combat effects**.
+## Releases & Versions
+You can find the latest playable builds in the [Releases](https://github.com/imang212/Patasy/releases) section:
 
-## Main Features
-- Game menu with settings and the ability to name your character  
-- Player and enemy movement and attack animations  
-- Enemy AI with movement and attack patterns  
-- Save and load system  
-- Merchant system for buying potions and upgrading skills  
-- Score and statistics tracking  
-- Minimap showing player and enemy positions  
-- Music, sound effects, and combat visuals  
+- **v1.0.6 (Stable)**
+  - [`Patasy_Windows_v1.0.6_x64.zip`](#) - Optimized for 64-bit Windows.
+  - [`Patasy_Linux_v1.0.6_x86_64.zip`](#) - Standard Linux build.
+- **v0.1.0 (Legacy)**
+  - [`Páťasy_Windows_v0_1_x64.zip`](#) - Initial prototype version.
 
-## Technologies Used
-| Technology | Description |
-|-------------|-------------|
-| **Unity Engine** | Game engine for developing 2D/3D games with C# support. |
-| **C#** | Programming language used for game logic, animation, movement, and AI. |
-| **Pixlr Editor** | Cloud-based image editor used for creating and editing graphics and animations. |
-| **Visual Studio Code** | Code editor for writing and managing C# scripts. |
+## Key Features
+- **Dynamic World:** Explore forests, lakes, mountains, roads, castles, and caves.
+- **Combat System:** Real-time action combat with various enemies, each having unique HP and attack patterns.
+- **Character Progression:** Collect score points to upgrade your stats and purchase potions at the **Merchant**.
+- **Saving System:** Securely save your progress (slot-based) with confirmation messages.
+- **Original Content:** Features custom textures created by the author and high-quality animations.
+
+## Credits & Attribution
+This project stands on the shoulders of giants. Special thanks to:
+- **Code & Logic:** Core Action RPG mechanics inspired by and based on the [uheartbeast Action RPG Tutorial](https://github.com/uheartbeast/youtube-tutorials/tree/master/Action%20RPG) (Benjamin Anderson), used under the **MIT License**.
+- **Graphics:** Includes original textures and assets created specifically for this project by Patasy.
+- **Supervision:** Mgr. Michal Beneš (Secondary Industrial School, Ústí nad Labem).
 
 ## Controls
 | Key / Action | Function |
 |---------------|-----------|
 | `W, A, S, D` | Move character |
 | `Spacebar` or Mouse Click | Attack |
+| `Right click` | |Trade with merchant |
 | `ESC` | Open game menu |
-
-## Save & Load System
-- The player can **save** the current game state at any time (including enemy positions and stats).  
-- Saved games appear in a list with options to **load or delete**.  
-- Each save is confirmed with an informational message.  
-
-## Merchant
-At the merchant, players can:
-- Purchase **potions** to restore health  
-- Upgrade **skills** (character stats)  
-- Spend earned points for rewards  
-
-## Conclusion
-This project was created as a final school project. During development, the author learned how to work with Unity Engine, program in C#, and create game graphics. The goal was to build a fully functional 2D RPG game and get closer to professional game design standards.
 
 ## Screenshots
 ### **Gameplay Example**
-<img width="702" height="396" alt="Gameplay" src="https://github.com/user-attachments/assets/50a9efaf-f081-41e7-97f1-2fc2851f87b5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50a9efaf-f081-41e7-97f1-2fc2851f87b5" width="800" />
+</p>
 
-### **Saving System**
-<img width="759" height="429" alt="Save System" src="https://github.com/user-attachments/assets/d5c9e9b5-040e-4f2b-8f9e-7450d43b436b" />
+### **Boss Battle & Saving System**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d5c9e9b5-040e-4f2b-8f9e-7450d43b436b" width="400" />
+  <img alt="8OZQujAAAABklEQVQDAFg9ehErCItuAAAAAElFTkSuQmCC" src="https://github.com/user-attachments/assets/3639ecc6-0778-4643-8f8a-e21f5c7c9152" width="400" />
+  <img src="https://github.com/user-attachments/assets/bbb9fb06-0450-470f-bddc-e698dc1091c8" width="400" />
+</p>
 
-### **Game Over Screen**
-<img width="735" height="411" alt="Game Over" src="https://github.com/user-attachments/assets/bbb9fb06-0450-470f-bddc-e698dc1091c8" />
-
-### **Boss Battle**
-<img width="687" height="385" alt="Boss Fight" src="https://github.com/user-attachments/assets/3639ecc6-0778-4643-8f8a-e21f5c7c9152" />
-
-## References
-1. [Pixlr (Photo Editor)](https://cs.wikipedia.org/wiki/Pixlr)  
-2. [Unity (Game Engine)](https://cs.wikipedia.org/wiki/Unity_(herní_engine))  
-3. [C# (Programming Language)](https://cs.wikipedia.org/wiki/C_Sharp)  
-4. [Visual Studio Code (Source Code Editor)](https://cs.wikipedia.org/wiki/Visual_Studio_Code)
+## License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.

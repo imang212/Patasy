@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// Can you advise me how can I in my Unity Patasy game create single menu management script which creates text in label version of game, manage menu music, settings of soundtrack management.
 public class MainMenu : MonoBehaviour {
     public void PlayGame () {
         Debug.Log("start");
@@ -19,4 +20,5 @@ public class MainMenu : MonoBehaviour {
         yield return new WaitForSeconds((float)2);
             
     }    
+
 }
