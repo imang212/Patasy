@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: e101cdfd571031143a5cf1263e1c728a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4327903846324243372
+    second: warrior_war_sprite 2_0
+  - first:
+      213: 1914536898935269417
+    second: warrior_war_sprite 2_1
+  - first:
+      213: 904963156614956188
+    second: warrior_war_sprite 2_2
+  - first:
+      213: -1729282000350806870
+    second: warrior_war_sprite 2_3
+  - first:
+      213: 8673609488915709174
+    second: warrior_war_sprite 2_4
+  - first:
+      213: -3487473266680918395
+    second: warrior_war_sprite 2_5
+  - first:
+      213: -7306740095643376327
+    second: warrior_war_sprite 2_6
+  - first:
+      213: -5374159350003029004
+    second: warrior_war_sprite 2_7
+  - first:
+      213: 3943211305661104986
+    second: warrior_war_sprite 2_8
+  - first:
+      213: 2486758529515129315
+    second: warrior_war_sprite 2_9
+  - first:
+      213: -9209077600830358481
+    second: warrior_war_sprite 2_10
+  - first:
+      213: 7539029011202979522
+    second: warrior_war_sprite 2_11
+  - first:
+      213: 5010166664240454907
+    second: warrior_war_sprite 2_12
+  - first:
+      213: 7380024564703067931
+    second: warrior_war_sprite 2_13
+  - first:
+      213: 265306421917210372
+    second: warrior_war_sprite 2_14
+  - first:
+      213: 6130056239284079972
+    second: warrior_war_sprite 2_15
+  - first:
+      213: -2204417517234144457
+    second: warrior_war_sprite 2_16
+  - first:
+      213: -1903633323897009380
+    second: warrior_war_sprite 2_17
+  - first:
+      213: 2027420175459891441
+    second: warrior_war_sprite 2_18
+  - first:
+      213: 8885516537422880722
+    second: warrior_war_sprite 2_19
+  - first:
+      213: -5927427046141093597
+    second: warrior_war_sprite 2_20
+  - first:
+      213: -3308654722365046838
+    second: warrior_war_sprite 2_21
+  - first:
+      213: -331771995448897289
+    second: warrior_war_sprite 2_22
+  - first:
+      213: -522317581251068379
+    second: warrior_war_sprite 2_23
+  - first:
+      213: 589989521058527240
+    second: warrior_war_sprite 2_24
+  - first:
+      213: -2511660925269739664
+    second: warrior_war_sprite 2_25
+  - first:
+      213: 6666461621053111202
+    second: warrior_war_sprite 2_26
+  - first:
+      213: -1640017648253307594
+    second: warrior_war_sprite 2_27
+  - first:
+      213: 8399938876703893740
+    second: warrior_war_sprite 2_28
+  - first:
+      213: 8653940307934682010
+    second: warrior_war_sprite 2_29
+  - first:
+      213: -2303244257456768697
+    second: warrior_war_sprite 2_30
+  - first:
+      213: 6197477380148165850
+    second: warrior_war_sprite 2_31
+  - first:
+      213: -6263829681009124499
+    second: warrior_war_sprite 2_32
+  - first:
+      213: -6067906795802828098
+    second: warrior_war_sprite 2_33
+  - first:
+      213: 147693414845464282
+    second: warrior_war_sprite 2_34
+  - first:
+      213: 1592276420204653806
+    second: warrior_war_sprite 2_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warrior_war_sprite 2_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 192
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b91e90cd8f81870800000000000000
+      internalID: 8653940307934682010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_war_sprite 2_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 192
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b45b0d8b3900e0800000000000000
+      internalID: -2303244257456768697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_war_sprite 2_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 192
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcff3377dcd10650800000000000000
+      internalID: 6197477380148165850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_war_sprite 2_32
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 192
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b17e1a7186219a0800000000000000
+      internalID: -6263829681009124499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_war_sprite 2_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26ef91be67acba0800000000000000
+      internalID: -6067906795802828098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_war_sprite 2_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 132
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3787d066bc0200800000000000000
+      internalID: 147693414845464282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      warrior_war_sprite 2_29: 8653940307934682010
+      warrior_war_sprite 2_30: -2303244257456768697
+      warrior_war_sprite 2_31: 6197477380148165850
+      warrior_war_sprite 2_32: -6263829681009124499
+      warrior_war_sprite 2_33: -6067906795802828098
+      warrior_war_sprite 2_34: 147693414845464282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

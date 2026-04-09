@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-2022.3+-black?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Scripting-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat&logo=windows&logoColor=white" />
+</p>
+
 # Páťasy – 2D RPG Game
 **Páťasy** is a single-player 2D RPG game created from the author’s imagination. The player explores a vast world full of nature, enemies, and challenges. The main goal is to earn points by defeating enemies, improve stats, and survive as long as possible.
 

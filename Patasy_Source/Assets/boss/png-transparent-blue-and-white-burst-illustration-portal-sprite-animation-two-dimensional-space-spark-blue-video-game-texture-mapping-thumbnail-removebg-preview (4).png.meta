@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: f55d4be9ea6a0c844924e9baeef3f380
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5263964611027791019
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_0
+  - first:
+      213: -6938129607599146403
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_1
+  - first:
+      213: -6012526644515702735
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_2
+  - first:
+      213: 8505841101234922584
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_3
+  - first:
+      213: 5096626016403625861
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_4
+  - first:
+      213: 3521156669116056100
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_5
+  - first:
+      213: 4615692425881040368
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_6
+  - first:
+      213: -2617794094614615167
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_7
+  - first:
+      213: 7391199788869678811
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_8
+  - first:
+      213: 4134486667806063293
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_9
+  - first:
+      213: 2118937903366032941
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_10
+  - first:
+      213: -8002855830667369815
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_11
+  - first:
+      213: -6338725404557370102
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_12
+  - first:
+      213: -4509644886611660911
+    second: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+      (4)_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 306
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55316717314a2f6b0800000000000000
+      internalID: -5263964611027791019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 306
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5abe65b1efc6bf90800000000000000
+      internalID: -6938129607599146403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 306
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f11f5fd63f8ca0800000000000000
+      internalID: -6012526644515702735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854660b6a61da0670800000000000000
+      internalID: 8505841101234922584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58790ccdb5adab640800000000000000
+      internalID: 5096626016403625861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 204
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422092da559add030800000000000000
+      internalID: 3521156669116056100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b91d6ecb3e0040800000000000000
+      internalID: 4615692425881040368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b616ff32abbabd0800000000000000
+      internalID: -2617794094614615167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 102
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f4873c01d29660800000000000000
+      internalID: 7391199788869678811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3b2b08b5a06930800000000000000
+      internalID: 4134486667806063293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4e37ebcaf76d10800000000000000
+      internalID: 2118937903366032941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26860e50520f090800000000000000
+      internalID: -8002855830667369815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d1d9c14d25808a0800000000000000
+      internalID: -6338725404557370102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview
+        (4)_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fea566ed58a61c0800000000000000
+      internalID: -4509644886611660911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_0: -5263964611027791019
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_1: -6938129607599146403
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_10: 2118937903366032941
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_11: -8002855830667369815
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_12: -6338725404557370102
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_13: -4509644886611660911
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_2: -6012526644515702735
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_3: 8505841101234922584
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_4: 5096626016403625861
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_5: 3521156669116056100
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_6: 4615692425881040368
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_7: -2617794094614615167
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_8: 7391199788869678811
+      png-transparent-blue-and-white-burst-illustration-portal-sprite-animation-two-dimensional-space-spark-blue-video-game-texture-mapping-thumbnail-removebg-preview (4)_9: 4134486667806063293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
