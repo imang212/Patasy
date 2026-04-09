@@ -8,6 +8,12 @@
 # Patasy – 2D Action RPG
 **Páťasy** is an immersive single-player 2D Action RPG. Explore a vast world filled with diverse landscapes, challenging enemies, and hidden secrets. Defeat foes to earn points, upgrade your skills at the merchant, and survive the ultimate boss battles.
 
+## Project Structure
+This repository is organized into the following directories:
+- **`Patasy_Source/`**: Full Unity project source files (Assets, ProjectSettings, etc.).
+- **`docs/`**: Comprehensive project documentation and technical details.
+- **`Patasy_Builds/`**: Local directory containing compiled binaries for different platforms.
+
 ## Releases & Versions
 You can find the latest playable builds in the [Releases](https://github.com/imang212/Patasy/releases) section:
 
@@ -16,12 +22,6 @@ You can find the latest playable builds in the [Releases](https://github.com/ima
   - [Download for Linux (x86_64)](https://github.com/imang212/Patasy/releases/download/v0.1.6/Patasy_Linux_v1.0.6_x86_64.zip) - Standard Linux build.
 - **v0.1.0 (Initial Prototype)**
   - [Download for Windows (x64)](https://github.com/imang212/Patasy/releases/download/v0.1.0/Patasy_Windows_v0_1_x64.zip) - Initial prototype version.
-
-## Project Structure
-This repository is organized into the following directories:
-- **`Patasy_Source/`**: Full Unity project source files (Assets, ProjectSettings, etc.).
-- **`docs/`**: Comprehensive project documentation and technical details.
-- **`Patasy_Builds/`**: Local directory containing compiled binaries for different platforms.
 
 ## Key Features
 - **Dynamic World:** Explore forests, lakes, mountains, roads, castles, and caves.
